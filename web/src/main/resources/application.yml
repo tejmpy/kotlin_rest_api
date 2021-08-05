@@ -1,0 +1,3 @@
+# Server
+server:
+  port: ${env.WEB_BACKEND_PORT}
